@@ -15,6 +15,7 @@
                                             <li><a href="pinnawala.php">Pinnawala Elephant Orphanage Day Tour</a></li>
                                             <li><a href="kandy-day-tour.php">Kandy Day Tour</a></li>
                                             <li><a href="udawalawa-day-tour.php">Udawalawa Day Tour</li>
+                                            <li><a href="yala-day-tour.php">Yala Day Tour</li>
                                         </ul>
                                     </li>
                                     <li><a href="round-tours.php" data-hover="Round Tours">Round Tours</a></li>
