@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<title>Tony Tours - Sigiriya & Dambulla Day Tour</title>
+	<title>Tony Tours - sigiri & Dambulla Day Tour</title>
     
     <link rel="icon" type="image/png" href="images/tony-favi.png" sizes="32x32">
     
@@ -108,22 +108,32 @@
 		<div class="container">
             <div class="row">
             	<div class="col-sm-7 day-tour">
-                	<h3>Kandy Day Tour</h3>
-                    <h5>Kandy Full Day Tour From Riu Ahungalla & Sheraton Kosgoda Hotels |Kandy Excursion</h5><br>
-                    <p class="day-tour_para">The last capital of a pre-colonial Sri Lankan kingdom is a must-visit. Not only is Kandy home to the magnificent Temple of the Tooth Relic but it's also a city of tree-lined streets crammed with hawkers, tuk-tuks and vintage buses. You'll also visit an elephant orphanage a spice garden, a tea plantation and botanical gardens.
-It's almost non-stop action on this immersive tour. As we make our way through the central highlands, we'll stop at vey famous pinnawala elephant orpanage and a fragrant spice garden in Mawanella and a tea plantation and factory – for a proper cuppa of Ceylon tea – in Giragama. The sight of undulating hills covered in row after row of tea plants is one of the most emblematic images of Sri Lanka.
-You'll also go on a city tour of Kandy, visiting the Tooth Relic temple – a UNESCO World Heritage Site that's home to a relic of Buddha's tooth – and the Royal Botanical Gardens in Peradeniya, which are home to more than 4,000 species of plants. To make the day extra special.
+                	<h3>Sigiriya & Dambulla Day Tour</h3>
+                    <h5>Sigiriya  Day Tour from Ahungalla – Sigiriya Day Tour with Dambulla From Riu Sri Lanka & Heritance Ahungalla Hotels</h5><br>
+                    <p class="day-tour_para">Admiring any UNESCO World Heritage Site is a treat. But seeing two in one day is positively spoiling yourself. This history-rich tour takes in two of Sri Lanka's standout sites – the Lion Rock of Sigirya and the Dambulla Rock Temple.
+First up is the Lion Rock of Sigiriya – Asia's answer to Machu Picchu. Rising 200 metres above the jungle, it boasts ancient frescoes, terraced gardens and stunning views. Climb the stairs cut directly into the rock, and feel like Indiana Jones as you pass through the impressive lion-shaped gateway to explore the ruins of a 5th Century royal palace.
+After wounderful village tour in sigiriya with lunch, it's on to your second UNESCO-listed site at the Dambulla Rock Temple – a sacred Buddhist cave carved deep into the mountain. Decorated with over 150 frescoes and huge statues of Buddha and other deities, it makes for a show-stopping end to your trip.
 </p>
-                    
+                    <div class="container">
+                        <p style="color:#168EEA; font-size:large;"><b>Do this because</b></p>
+                        <ul>
+                            	<li>Sigirya Rock</li>
+                                <li>Dambulla Rock Temple</li>
+                                <li>Two UNESCO World Heritage Sites</li>
+                                <li>Woundeful Village Tour</li>
+                               
+                                
+                            </ul>
+                    </div>
                    <!-- <p class="text-bottom">Meet Tony at RIU Ahungalla hotel at 8.30 a.m. for a 8 hour day of Galle Sri Lanka.</p>-->
                     
                     
                     <h3>At a glance</h3>
                     <div class="row" id="galleGallance">
-                        <div class="item"><img src="images/day tours/kandy/kandy-galance-1.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Tooth Relic</h5></span></div></div>
-                        <div class="item"><img src="images/day tours/kandy/kandy-galance-2.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Elephant Orphanage</h5></span></div></div>
-                        <div class="item"><img src="images/day tours/kandy/kandy-galance-3.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Botanical gardens</h5></span></div></div>
-                        <div class="item"><img src="images/day tours/kandy/kandy-galance-4.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Kandy City </h5></span></div></div>
+                        <div class="item"><img src="images/day tours/sigiriya/dambulla-galance-1.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Dambulla Temple</h5></span></div></div>
+                        <div class="item"><img src="images/day tours/sigiriya/dambulla-galance-2.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Dambulla Cave Temple</h5></span></div></div>
+                        <div class="item"><img src="images/day tours/sigiriya/dambulla-galance-3.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Sigiriya Rock</h5></span></div></div>
+                        <div class="item"><img src="images/day tours/sigiriya/dambulla-galance-4.jpg" class="img-responsive"><div class="custom_overlay-1"><span class="custom_overlay-1_inner"><h5>Sigiriya</h5></span></div></div>
                     </div>
                         
                         
@@ -140,10 +150,10 @@ You'll also go on a city tour of Kandy, visiting the Tooth Relic temple – a UN
                     	<div class="tip-box-inner trip-length key-point">
                         	<p class="tip-title">Travel Tips</p>
                             <ul>
-                            	<li>Wear long pants and shirts/t shirts which cover your knees and shoulders when you visit the Temple of tooth.</li>
-                                <li>We provide unlimited mineral water bottles for your tour.</li>
-                                <li>There are plenty of recommendable local cafes and restaurants where you can have a snack or lunch.</li>
-                                <li>Bring your camera to capture the amazing spots of the tour</li>
+                            	<li>Wear cotton clothes and do not forget to bring good pair of shoes. Wear something long to cover your knees and shoulders when you visit temples</li>
+                                <li>We provide unlimited mineral water bottles for your tour</li>
+                                <li>There are plenty of recommendable local cafes and restaurants where you can have a snack or lunch. In the village tour, you will taste a pure Sri Lankan rice curry lunch</li>
+                                <li>Bring your camera to capture the amazing spots of the tour.</li>
                                 <li>You must bring a valid passport for entering the sites.</li>
                                 
                             </ul>
@@ -152,12 +162,12 @@ You'll also go on a city tour of Kandy, visiting the Tooth Relic temple – a UN
                         <div class="tip-box-inner trip-price key-point">
                         	<p class="tip-title">Highlights</p>
                             <ul>
-                            <li>We can pick up you any hotel from these locations.
-                                    (Ahungalla,kosgoda,Induruwa,Bentota,Aluthgama, Beruwala or Kaluthara) </li>
-                                <li> Witness elephants moving around and don’t miss the chance to feed an elephant. </li>
-                                <li> Witness the beautiful landscapes offered by the elegant Royal Botanical Gardens, with its bright flowers </li>
-                                <li> Immerse yourself in the local culture with visits to the Temple of the Tooth Relic. </li>
-                                <li> Enjoy a cup of ceylon tea at tea factory.</b></li>
+                                <li>Private day trip to Sigiriya and Sri Lanka’s best cave temple.</li>
+                                <li>Free hotel Pick up is available from hoteles in these location (Ahungalla,Kosgoda,Balapitiya,Induruwa,Bentota,Kaluthara)</li>
+                                <li>Visit the unesco- listed sigiriya rock fortress and Golden Temple of Dambulla.</li>
+                                <li>Hear personalized commentary from a knowledgeable guide.</li>
+                                <li>Withness the Sigiriya Village life experience.</li>
+                                <li>Hotel pickup and drop off by private luxury vehicle </li>
                             </ul>
                         </div>
                     </div>
@@ -178,48 +188,34 @@ You'll also go on a city tour of Kandy, visiting the Tooth Relic temple – a UN
                     <div class="row">
                     	<div class="col-lg-2 col-sm-6 picture-your-self-info-inner">
                         	<div class="info-ico">
-                            	<img class="lazy-loaded" src="images/day tours/kandy/elephant-orphanage.png" data-lazy-type="image" data-src="images/day tours/galle/3.Kelani-River.png">
-                                <noscript><img src=images/day tours/kandy/elephant-orphanage.png></noscript>
+                            	<img class="lazy-loaded" src="images/day tours/sigiriya/sigiriya-1.png" data-lazy-type="image" data-src="images/day tours/galle/3.Kelani-River.png">
+                                <noscript><img src=images/day tours/sigiriya/sigiriya-1.png></noscript>
                             </div>
                             <p></p>
-                            <p class="picture-your-self-text">Pinnawala Elephant Orphanage.</p>
+                            <p class="picture-your-self-text">Climb The Magnificent Sigiriya Rock Fortress</p>
                         </div>
                                 
                         <div class="col-lg-2 col-sm-6 picture-your-self-info-inner">
                         	<div class="info-ico">
-                            	<img class="lazy-loaded" src="images/day tours/kandy/botanical-garden.png" data-lazy-type="image" data-src="images/day tours/galle/Galle-Dutch-Fort.png">
-                                <noscript><img src=images/day tours/kandy/botanical-garden.png></noscript>
+                            	<img class="lazy-loaded" src="images/day tours/sigiriya/dambulla.png" data-lazy-type="image" data-src="images/day tours/galle/Galle-Dutch-Fort.png">
+                                <noscript><img src=images/day tours/sigiriya/dambulla.png></noscript>
                             </div>
                             <p></p>
-                            <p class="picture-your-self-text">Royal Botanical Garden. </p>
+                            <p class="picture-your-self-text">Visit Dambulla Cave Temple </p>
                         </div>
                                 
                         <div class="col-lg-2 col-sm-6 picture-your-self-info-inner">
                         	<div class="info-ico">
-                                <img class="lazy-loaded" src="images/day tours/kandy/tooth-temple.png" data-lazy-type="image" data-src="images/day tours/galle/SunTag.png">
-                                <noscript><img src=images/day tours/kandy/tooth-temple.png></noscript>
+                                <img class="lazy-loaded" src="images/day tours/sigiriya/lake.png" data-lazy-type="image" data-src="images/day tours/galle/SunTag.png">
+                                <noscript><img src=images/day tours/sigiriya/lake.png></noscript>
                             </div>
                             <p></p>
-                            <p class="picture-your-self-text"> Visit the Temple of the Tooth. </p>
+                            <p class="picture-your-self-text">Catamaran through the Lake </p>
                         </div>
 
-                        <div class="col-lg-2 col-sm-6 picture-your-self-info-inner">
-                        	<div class="info-ico">
-                            	<img class="lazy-loaded" src="images/day tours/kandy/spice-garden.png" data-lazy-type="image" data-src="images/day tours/galle/turtles.png">
-                                <noscript><img src=images/day tours/kandy/spice-garden.png></noscript>
-                            </div>
-                            <p></p>
-                            <p class="picture-your-self-text">Tea Factory</p>
-                        </div>
+                        
                                 
-                        <div class="col-lg-2 col-sm-6 picture-your-self-info-inner">
-                        	<div class="info-ico">
-                            	<img class="lazy-loaded" src="images/day tours/kandy/factory.png" data-lazy-type="image" data-src="images/day tours/galle/turtles.png">
-                                <noscript><img src=images/day tours/kandy/factory.png></noscript>
-                            </div>
-                            <p></p>
-                            <p class="picture-your-self-text">Tea Factory</p>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -232,81 +228,38 @@ You'll also go on a city tour of Kandy, visiting the Tooth Relic temple – a UN
             <div class="row">
             	<div class="col-sm-10 col-sm-offset-1">
                 	<div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/pinnawala.jpg" class="img-responsive"></div>
+                        <div class="col-sm-3"><img src="images/day tours/sigiriya/sigiriya.jpg" class="img-responsive"></div>
                         
                         <div class="col-sm-9">
-                            <h4>Pinnawala Elephant Orphanage</h4>
+                            <h4>Sigiriya</h4>
                             
-                            <p>The Pinnawela Orphanage has been both an orphanage and breeding ground for wild elephants from the year 1975. Currently, there are some 100 elephants here, well accustomed to their curious human visitors. Although the orphanage simulates a natural habitat for the elephants, they are taken twice a day to the Maha Oya for baths, and all the baby calves below 3 years of age, are still bottle fed.
-Bathing and feeding times are very popular with visitors as they are able to help with the feeding and watch the jumbos frolic in water
-</p>
-                        </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/peradeniya-garden.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Peradeniya Royal Botanical gardens</h4>
-                            
-                            <p>Royal Botanical Gardens in Peradeniya is the oldest formal gardens in Sri Lanka. 
-                                The garden includes more than 4000 species of plants, including orchids, spices, medicinal plants 
-                                and palm trees and is renowned for its collection of orchids and the long, palm framed pathways.. 
-                                It encompasses a total area of 147 acres. Though the groundwork for the current gardens were laid 
-                                in 1821 by Alexander Moon, the origins of the Botanic Gardens date as far back as 1371 
-                                King Wickramabahu  time.</p>
-                        </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/tooth-temple.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Temple of  the Tooth</h4>
-                            
-                            <p>The Dalada Maligawa, also known as, the Temple of the Tooth, is one of the landmark sites in Sri lanka. The Maligawa was once the royal palace , but after the demise of the Kandyan Kingdom the palace was transformed into a Buddhist  temple that holds Buddha’s tooth.
-It is a must visit location for all tourists. Visitors can catch a glimpse of Buddhist rituals, explore the museum that includes several ancient artifacts, and pay your tribute to the tooth relic at one of the Buddhist ceremonies held at the premises. The architectural splendor and the historical importance of the Dalada Maligawa are sure to amaze you. 
-</p>
-                        </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/spice-garden.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Spice Garden</h4>
-                            
-                            <p>Enjoy Sri Lanka’s world renowned spices in a garden where it smells of cinnamons, pepper, cardamom, nutmeg and mace that overwhelm your senses!</p>
-                           
+                            <p>The Sigiriya Rock Fortress is rich in history and has some amazing features such as the lion's paw and the mirror wall.  Sigiriya Rock Fortress listed in the UNESCO World Heritage Sites for its great historical and archaeological importance. When you reach the summit, enjoy the beautiful view of the gardens, pools and peculiar structures. </p>
                         </div>
                     </div>
 
                     <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/kandy-city.jpg" class="img-responsive"></div>
+                        <div class="col-sm-3"><img src="images/day tours/sigiriya/dambulla.jpg" class="img-responsive"></div>
                         
                         <div class="col-sm-9">
-                            <h4>Kandy City Tour</h4>
+                            <h4>Dambulla</h4>
                             
-                            <p>Kandy is the Cultural hub of Sri Lanka, known for its natural beauty and traditional ways, Kandy 
-                                will definitely be one of the best highlights of Sri Lanka. Take a sightseeing tour around the 
-                                wonderful city of Kandy and grant yourself an awesome view of the heart of Kandy including 
-                                the Kandy view point.</p>
-                            
+                            <p>Dambulla rock temple that was built by king walagambaha in the 1 st century B.C. and it is a world heritase site. It is the most impressive of Sri Lanka cave temples. The complex of five caves with over 2000 sq meters of painted walls and ceiling, is the largest area of paintings found in the world. It contains over 150 images of buddhaand the largest is the colossal figure of the Buddha carved out of rock and spanning 14 meters. </p>
                         </div>
                     </div>
 
                     <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/tea-satate.jpg" class="img-responsive"></div>
+                        <div class="col-sm-3"><img src="images/day tours/sigiriya/villege.jpg" class="img-responsive"></div>
                         
                         <div class="col-sm-9">
-                            <h4>Tea Factory & Plantation Visit</h4>
+                            <h4>Traditional Village Tour</h4>
                             
-                            <p>On your way back visit a tea plantation and a tea factory, where the best tea in the world is produced. 
-                                You will be told all about the process of manufacturing tea. You can also see how tea is graded and finally 
-                                taste a cup of pure Ceylon tea in the factory.</p>
-                            
+                            <p>The village tour is one of the most significant excursions that can be done while in Sri Lanka, because it gives you an indication of the previous nature and the culture that is Sri Lanka! This is definitely an excursion that should not be missed under any circumstances, because its that much beautiful experience!</p>
                         </div>
                     </div>
+
+                   
+                    
+                    
                     
                     
                     
