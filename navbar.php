@@ -17,6 +17,7 @@
                                             <li><a href="udawalawa-day-tour.php">Udawalawa Day Tour</li>
                                             <li><a href="yala-day-tour.php">Yala Day Tour</li>
                                             <li><a href="sigiriya-dabulla-day-tour.php">Sigiriya & Dambulla Day Tour</li>
+                                            <li><a href="kithulgala-day-tour.php">Kithuldaga Day Tour</li>
                                         </ul>
                                     </li>
                                     <li><a href="round-tours.php" data-hover="Round Tours">Round Tours</a></li>
