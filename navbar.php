@@ -19,6 +19,7 @@
                                             <li><a href="sigiriya-dabulla-day-tour.php">Sigiriya & Dambulla Day Tour</li>
                                             <li><a href="kithulgala-day-tour.php">Kithuldaga Day Tour</li>
                                             <li><a href="whale-watching-day-tour.php">Whale Watching Day Tour</li>
+                                            <li><a href="sinharaja-day-tour.php">Sinharaja Day Tour</li>
                                         </ul>
                                     </li>
                                     <li><a href="round-tours.php" data-hover="Round Tours">Round Tours</a></li>
