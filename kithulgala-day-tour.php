@@ -244,93 +244,22 @@ You'll raft down the Kelani River, where whitewater rapids foam up in a wild jun
         </div>
         
         
-    <!--    <div id="place" class="container day-tour-visit">
+        <div id="place" class="container day-tour-visit">
         	<h3>Places you will visit</h3>
             
             <div class="row">
             	<div class="col-sm-10 col-sm-offset-1">
                 	<div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/pinnawala.jpg" class="img-responsive"></div>
+                        <div class="col-sm-3"><img src="images/day tours/Kithulgala/Kithulgala-glance-1.jpg" class="img-responsive"></div>
                         
                         <div class="col-sm-9">
-                            <h4>Pinnawala Elephant Orphanage</h4>
+                            <h4>Kithulgala white water rafting</h4>
                             
-                            <p>The Pinnawela Orphanage has been both an orphanage and breeding ground for wild elephants from the year 1975. Currently, there are some 100 elephants here, well accustomed to their curious human visitors. Although the orphanage simulates a natural habitat for the elephants, they are taken twice a day to the Maha Oya for baths, and all the baby calves below 3 years of age, are still bottle fed.
-Bathing and feeding times are very popular with visitors as they are able to help with the feeding and watch the jumbos frolic in water
-</p>
+                            <p>Experience White Water Rafting in the picturesque Kelani River in Kitulgala covering 5 major rapids and 4 minor rapids. The distance covered is around 5 KM. The river and its surrounding will make you feel enchanted, with a memorable experience during your White Water Rafting Tour in Kitulagala.</p>
                         </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/peradeniya-garden.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Peradeniya Royal Botanical gardens</h4>
-                            
-                            <p>Royal Botanical Gardens in Peradeniya is the oldest formal gardens in Sri Lanka. 
-                                The garden includes more than 4000 species of plants, including orchids, spices, medicinal plants 
-                                and palm trees and is renowned for its collection of orchids and the long, palm framed pathways.. 
-                                It encompasses a total area of 147 acres. Though the groundwork for the current gardens were laid 
-                                in 1821 by Alexander Moon, the origins of the Botanic Gardens date as far back as 1371 
-                                King Wickramabahu  time.</p>
-                        </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/tooth-temple.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Temple of  the Tooth</h4>
-                            
-                            <p>The Dalada Maligawa, also known as, the Temple of the Tooth, is one of the landmark sites in Sri lanka. The Maligawa was once the royal palace , but after the demise of the Kandyan Kingdom the palace was transformed into a Buddhist  temple that holds Buddha’s tooth.
-It is a must visit location for all tourists. Visitors can catch a glimpse of Buddhist rituals, explore the museum that includes several ancient artifacts, and pay your tribute to the tooth relic at one of the Buddhist ceremonies held at the premises. The architectural splendor and the historical importance of the Dalada Maligawa are sure to amaze you. 
-</p>
-                        </div>
-                    </div>
-                    
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/spice-garden.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Spice Garden</h4>
-                            
-                            <p>Enjoy Sri Lanka’s world renowned spices in a garden where it smells of cinnamons, pepper, cardamom, nutmeg and mace that overwhelm your senses!</p>
-                           
-                        </div>
-                    </div>
-
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/kandy-city.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Kandy City Tour</h4>
-                            
-                            <p>Kandy is the Cultural hub of Sri Lanka, known for its natural beauty and traditional ways, Kandy 
-                                will definitely be one of the best highlights of Sri Lanka. Take a sightseeing tour around the 
-                                wonderful city of Kandy and grant yourself an awesome view of the heart of Kandy including 
-                                the Kandy view point.</p>
-                            
-                        </div>
-                    </div>
-
-                    <div class="row placeToVisit">
-                        <div class="col-sm-3"><img src="images/day tours/kandy/tea-satate.jpg" class="img-responsive"></div>
-                        
-                        <div class="col-sm-9">
-                            <h4>Tea Factory & Plantation Visit</h4>
-                            
-                            <p>On your way back visit a tea plantation and a tea factory, where the best tea in the world is produced. 
-                                You will be told all about the process of manufacturing tea. You can also see how tea is graded and finally 
-                                taste a cup of pure Ceylon tea in the factory.</p>
-                            
-                        </div>
-                    </div>
-                    
-                    
-                    
-                    
+                    </div>    
                 </div>
-            </div>-->
+            </div>
             
             <!--<div class="row justify-content-md-center">
             	<div class="col-md-9">
