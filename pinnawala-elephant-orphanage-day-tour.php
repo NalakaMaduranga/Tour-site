@@ -214,7 +214,7 @@
         </div>
         
         
-        <div id="place" class="container day-tour-visit">
+       <!-- <div id="place" class="container day-tour-visit">
         	<h3>Places you will visit</h3>
             
             <div class="row">
@@ -233,7 +233,7 @@
                 </div>
             </div>
             
-            <!--<div class="row justify-content-md-center">
+            <div class="row justify-content-md-center">
             	<div class="col-md-9">
                 	<div class="vc_row wpb_row vc_row-fluid">
                     	<div class="wpb_column vc_column_container vc_col-sm-3">
